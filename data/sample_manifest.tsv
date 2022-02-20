@@ -1,3 +1,4 @@
 sample	status	group
 taxonomic-report-studio-01	ready	control
 taxonomic-report-studio-02	review	case
+taxonomic-report-studio-03	queued	validation
