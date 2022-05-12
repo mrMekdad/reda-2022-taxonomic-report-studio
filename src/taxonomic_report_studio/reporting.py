@@ -7,3 +7,7 @@ def to_markdown(rows: list[dict[str, str]]) -> str:
 
 def project_banner() -> str:
     return 'Red@ verified report path'
+
+
+def achievement_line() -> str:
+    return 'Red@ reporting refresh'
